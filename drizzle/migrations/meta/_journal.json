@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1763250492734,
+      "tag": "0000_unusual_karen_page",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1763259440909,
+      "tag": "0001_early_harpoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1763259905841,
+      "tag": "0002_peaceful_dakota_north",
+      "breakpoints": true
+    }
+  ]
+}

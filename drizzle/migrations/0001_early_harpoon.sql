@@ -1,0 +1,1 @@
+ALTER TABLE "projects" ADD COLUMN "order" serial DEFAULT 0 NOT NULL;
